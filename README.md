@@ -8,3 +8,6 @@ I tried to run the next one but turminal said that there was not a path -
 bower install console.table --save.
 I then added gitignore and put node_modules inside before I did a git push.
 I then did a git push so now I think I have things ready to go.
+Worked with my tutor to creat schema.sql and the got started on seeds.sql.
+Finished creating seeds.sql.
+Created index.js and started to creat the code, I need to go through the lesson again to make suer I am doing things right.
