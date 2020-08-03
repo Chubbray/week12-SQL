@@ -11,3 +11,6 @@ I then did a git push so now I think I have things ready to go.
 Worked with my tutor to creat schema.sql and the got started on seeds.sql.
 Finished creating seeds.sql.
 Created index.js and started to creat the code, I need to go through the lesson again to make suer I am doing things right.
+I created server.js and started the code but it still needs a lot of work.
+
+I will come back to this later on to finish. It is late due to me getting activated with the guard for the state.
